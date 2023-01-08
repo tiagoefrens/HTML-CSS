@@ -29,14 +29,14 @@ menu > ul > li > a {
     color: white;
     border: 2px solid rgb(158, 157, 157);
 }
-i#burguer{
+span#burguer{
     background-color: rgb(17, 17, 17);
     color: white;
     display: block;
     text-align: center;
     padding: 10px;
 }
-i#burguer:hover{
+span#burguer:hover{
     background-color: white;
     color: black;
     cursor: pointer;
